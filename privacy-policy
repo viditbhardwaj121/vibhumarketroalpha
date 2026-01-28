@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy | MarketRoAlpha</title>
+<style>
+body{
+  font-family:Segoe UI, sans-serif;
+  background:#f8fafc;
+  color:#1e293b;
+  padding:40px;
+  max-width:900px;
+  margin:auto;
+}
+h1,h2{color:#020617}
+a{color:#38bdf8}
+</style>
+</head>
+
+<body>
+
+<h1>Privacy Policy</h1>
+
+<p>At <strong>MarketRoAlpha</strong>, we respect your privacy and are committed to protecting your personal information.</p>
+
+<h2>Information We Collect</h2>
+<p>We collect your name, company name, mobile number, email address, and service preferences when you submit a form on our website.</p>
+
+<h2>How We Use Your Information</h2>
+<ul>
+  <li>To contact you regarding your enquiry</li>
+  <li>To provide marketing consultation services</li>
+  <li>For internal analysis and service improvement</li>
+</ul>
+
+<h2>Data Protection</h2>
+<p>Your data is securely stored and is never sold or shared with third parties.</p>
+
+<h2>Contact</h2>
+<p>If you have any questions, email us at  
+<a href="mailto:vbhardwaj@marketroalpha.com">vbhardwaj@marketroalpha.com</a></p>
+
+<p><a href="index.html">← Back to Home</a></p>
+
+</body>
+</html>
